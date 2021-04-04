@@ -1,0 +1,7 @@
+D:\Facultate\An III\Sem2\BD Proiect\MagazinIncaltaminte\bin\Debug\MagazinIncaltaminte.exe.config
+D:\Facultate\An III\Sem2\BD Proiect\MagazinIncaltaminte\bin\Debug\MagazinIncaltaminte.exe
+D:\Facultate\An III\Sem2\BD Proiect\MagazinIncaltaminte\bin\Debug\MagazinIncaltaminte.pdb
+D:\Facultate\An III\Sem2\BD Proiect\MagazinIncaltaminte\obj\Debug\MagazinIncaltaminte.csprojAssemblyReference.cache
+D:\Facultate\An III\Sem2\BD Proiect\MagazinIncaltaminte\obj\Debug\MagazinIncaltaminte.csproj.CoreCompileInputs.cache
+D:\Facultate\An III\Sem2\BD Proiect\MagazinIncaltaminte\obj\Debug\MagazinIncaltaminte.exe
+D:\Facultate\An III\Sem2\BD Proiect\MagazinIncaltaminte\obj\Debug\MagazinIncaltaminte.pdb
