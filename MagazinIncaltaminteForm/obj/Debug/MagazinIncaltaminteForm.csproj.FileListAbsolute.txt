@@ -1,0 +1,10 @@
+D:\Facultate\An III\Sem2\BD Proiect\MagazinIncaltaminteForm\bin\Debug\MagazinIncaltaminteForm.exe.config
+D:\Facultate\An III\Sem2\BD Proiect\MagazinIncaltaminteForm\bin\Debug\MagazinIncaltaminteForm.exe
+D:\Facultate\An III\Sem2\BD Proiect\MagazinIncaltaminteForm\bin\Debug\MagazinIncaltaminteForm.pdb
+D:\Facultate\An III\Sem2\BD Proiect\MagazinIncaltaminteForm\obj\Debug\MagazinIncaltaminteForm.csprojAssemblyReference.cache
+D:\Facultate\An III\Sem2\BD Proiect\MagazinIncaltaminteForm\obj\Debug\MagazinIncaltaminteForm.Properties.Resources.resources
+D:\Facultate\An III\Sem2\BD Proiect\MagazinIncaltaminteForm\obj\Debug\MagazinIncaltaminteForm.csproj.GenerateResource.cache
+D:\Facultate\An III\Sem2\BD Proiect\MagazinIncaltaminteForm\obj\Debug\MagazinIncaltaminteForm.csproj.CoreCompileInputs.cache
+D:\Facultate\An III\Sem2\BD Proiect\MagazinIncaltaminteForm\obj\Debug\MagazinIncaltaminteForm.exe
+D:\Facultate\An III\Sem2\BD Proiect\MagazinIncaltaminteForm\obj\Debug\MagazinIncaltaminteForm.pdb
+D:\Facultate\An III\Sem2\BD Proiect\MagazinIncaltaminteForm\obj\Debug\MagazinIncaltaminteForm.MainForm.resources
